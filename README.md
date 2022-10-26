@@ -5,3 +5,7 @@ The Bot should be able to guide a customer to create a bank account.
 The Bot should be able to answer loan queries.
 The Bot should be able to answer general banking queries.
 The Bot should be able to answer queries regarding net banking.
+
+
+https://trpbank.netlify.app
+Click the link for current update.
